@@ -1,0 +1,18 @@
+body {background-color: rgb(163, 30, 86);}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+h2 {
+    font-size: xx-large;
+    color: cornsilk;
+}
+ul {
+    font-size: larger;
+    color: ghostwhite;
+}
+h3 {
+    color: bisque;
+    font-size: x-large;
+}
